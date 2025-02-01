@@ -6,7 +6,7 @@ Este projeto é uma **Calculadora de Índice de Massa Corporal (IMC)** desenvolv
 
 ## 📸 Capturas de Tela
 
-Adicione aqui algumas imagens do seu projeto:
+Algumas imagens do seu projeto:
 
 1. ![Imagem 1](/img/estado_normal.png)
 2. ![Imagem 2](/img/estado_teste.png)
@@ -18,6 +18,7 @@ Adicione aqui algumas imagens do seu projeto:
 
 ✅ Entrada de peso e altura com placeholders.  
 ✅ Cálculo do IMC automaticamente ao clicar no botão.  
+✅ Criar eventos para o entry.
 ✅ Exibição da categoria de IMC (Magreza, Normal, Sobrepeso, Obesidade).  
 ✅ Uso de cores para indicar o estado do IMC:  
    - 🟢 **Verde** → Normal  
